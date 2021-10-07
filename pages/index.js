@@ -327,7 +327,7 @@ useEffect(() => {
         <title>College Football Randomizer</title>
         <meta name="description" content="Find any random football game in seconds, using the college football randomizer!"/>
         <meta property="og:title" content="Find a random college football game in seconds!"/>
-        <meta property="og:description" content="Waste away the day by finding a random college football game. Pick any of your favorite teams, and see what random game they took placce in."/>
+        <meta property="og:description" content="Waste away the day by finding a random college football game. Pick any of your favorite teams, and see what random game they played in."/>
         <meta property="og:url" content="https://CFBRandomizer.com"/>
         <meta property="og:type" content="website"/>
         <link rel="icon" href="/favicon.ico"/>
